@@ -42,7 +42,7 @@ Download profile images to `/profiles` with filenames that correlate to the `use
 
 You can use the `/profiles/_test.js` script to pull down profiles from <https://randomuser.me>. This script outputs JSON and downloads profile photos to the current directory.
 
-$ node _test.js > _test.json
+  $ node _test.js > _test.json
 
 If needed, you can temporarily host the JSON on <http://myjson.com/> for testing.
 
