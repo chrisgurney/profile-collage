@@ -4,6 +4,8 @@ Have a TV sitting around the office doing nothing?
 
 This web app displays a grid of profile photos, choosing one at random on an interval, displaying more information about that individual. It has been formatted for large televisions.
 
+![Screenshot of Profile Collage](/images/screenshot.jpg)
+
 Data is pulled from a given JSON endpoint (see below).
 
 ## Installation + Configuration
