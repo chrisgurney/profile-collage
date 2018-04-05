@@ -24,7 +24,7 @@ The JSON endpoint needs to provide JSON in the following format:
 
 ```
 {
-  "profiles" : [
+  "profiles": [
     {
       "first_name": "dwight",
       "last_name": "howard",
