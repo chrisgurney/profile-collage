@@ -52,4 +52,5 @@ Improvements I want to make in the future:
 
 # Credits
 
-* Building background image by Sean Pollock via Unsplash.
+* Profile images and names courtesy of <https://randomuser.me>. 
+* Building background image by Sean Pollock via <https://unsplash.com>.
