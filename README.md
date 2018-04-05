@@ -2,9 +2,9 @@
 
 Have a TV sitting around the office doing nothing?
 
-This web app displays a grid of profile photos, choosing one at random on an interval, displaying more information about that individual. It has been formatted for large televisions (note that it is _not_ optimized for mobile screens).
+This web app displays a grid of profile photos, choosing one at random on an interval, displaying more information about that individual. It has been formatted for large televisions.
 
- :rocket: [Launch the demo!](https://chrisgurney.github.io/profile-collage/) 
+ :rocket: [Launch the demo!](https://chrisgurney.github.io/profile-collage/) (Note: _Not_ optimized for mobile screens.)
 
 ![Screenshot of Profile Collage](/images/screenshot.jpg)
 
