@@ -18,7 +18,8 @@ Download everything to a directory, customize these files to use your branding (
 
 The JSON endpoint needs to provide JSON in the following format:
 
-```{
+```
+{
  	"profiles" : [
  		{
  			"first_name": "dwight",
@@ -28,6 +29,7 @@ The JSON endpoint needs to provide JSON in the following format:
 			"location": "toronto-ca"
  		},
  		...
+}
 ```
 
 Download profile images to `/profiles` with filenames that correlate to the `user_id` of each profile. The `_test.js` node script might be helpful here (see _Testing_).
@@ -40,7 +42,7 @@ You can use the `/profiles/_test.js` script to pull down profiles from <https://
 
 If needed, you can temporarily host the JSON on <http://myjson.com/> for testing.
 
-# FUTURE
+# Future
 
 Improvements I want to make in the future:
 
