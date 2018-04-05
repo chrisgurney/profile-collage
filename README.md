@@ -24,15 +24,15 @@ The JSON endpoint needs to provide JSON in the following format:
 
 ```
 {
- 	"profiles" : [
- 		{
- 			"first_name": "dwight",
- 			"last_name": "howard",
- 			"user_id": "heavytiger568",
-			"job_title": "Customer Support",
-			"location": "toronto-ca"
- 		},
- 		...
+  "profiles" : [
+    {
+      "first_name": "dwight",
+      "last_name": "howard",
+      "user_id": "heavytiger568",
+      "job_title": "Customer Support",
+      "location": "toronto-ca"
+    },
+    ...
 }
 ```
 
