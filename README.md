@@ -2,11 +2,13 @@
 
 Have a TV sitting around the office doing nothing?
 
-Displays a grid of profile photos, choosing one at random on an interval, displaying more information about that individual. Formatted for large televisions.
+This web app displays a grid of profile photos, choosing one at random on an interval, displaying more information about that individual. It has been formatted for large televisions.
+
+Data is pulled from a given JSON endpoint (see below).
 
 ## Installation + Configuration
 
-This is a self-contained HTML page that includes all dependencies.
+This is a self-contained web app that includes all dependencies.
 
 Download everything to a directory, customize these files to use your branding (logo, colors):
 
