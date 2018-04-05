@@ -18,7 +18,7 @@ Download everything to a directory, customize these files to use your branding (
 
 The JSON endpoint needs to provide JSON in the following format:
 
-~~~{
+```{
  	"profiles" : [
  		{
  			"first_name": "dwight",
@@ -27,7 +27,8 @@ The JSON endpoint needs to provide JSON in the following format:
 			"job_title": "Customer Support",
 			"location": "toronto-ca"
  		},
- 		...~~~
+ 		...
+```
 
 Download profile images to `/profiles` with filenames that correlate to the `user_id` of each profile. The `_test.js` node script might be helpful here (see _Testing_).
 
