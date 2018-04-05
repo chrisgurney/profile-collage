@@ -4,7 +4,7 @@ Have a TV sitting around the office doing nothing?
 
 This web app displays a grid of profile photos, choosing one at random on an interval, displaying more information about that individual. It has been formatted for large televisions.
 
- :rocket: [Launch the demo!](https://chrisgurney.github.io/profile-collage/).
+ :rocket: [Launch the demo!](https://chrisgurney.github.io/profile-collage/)
 
 ![Screenshot of Profile Collage](/images/screenshot.jpg)
 
