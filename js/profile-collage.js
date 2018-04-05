@@ -126,7 +126,8 @@ String.prototype.toTitleCase = function () {
  *    },
  *		...
  */
-$.getJSON("./profiles/_test.json", function(json) {
+ // ./profiles/_test.json
+$.getJSON("https://api.myjson.com/bins/mm4ej", function(json) {
 
 	profiles = json.profiles;
 	profilesHtml = '<ul id="profiles">';
