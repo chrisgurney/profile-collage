@@ -2,7 +2,7 @@
 
 Have a TV sitting around the office doing nothing?
 
-This web app displays a grid of profile photos, choosing one at random on an interval, displaying more information about that individual. It has been formatted for large televisions.
+This web app displays a grid of employee photos, choosing one at random on an interval, displaying more information about that individual. It has been formatted for large televisions.
 
  :rocket: [Launch the demo!](https://chrisgurney.github.io/profile-collage/) (Note: _Not_ optimized for mobile screens.)
 
@@ -36,7 +36,7 @@ The JSON endpoint needs to provide JSON in the following format:
 }
 ```
 
-Download profile images to `/profiles` with filenames that correlate to the `user_id` of each profile. The `_test.js` node script might be helpful here (see _Testing_).
+Download profile images to `/profiles` with filenames that correlate to the `user_id` of each profile (i.e., `user_id.jpg`). The `_test.js` node script might be helpful here (see _Testing_).
 
 ## Testing
 
@@ -51,6 +51,7 @@ If needed, you can temporarily host the JSON on <http://myjson.com/> for testing
 Improvements I want to make in the future:
 
 * Put all configuration into a single JSON file, read in via JavaScript and set in HTML.
+* Simplify, simplify, simplify.
 
 # Credits
 
