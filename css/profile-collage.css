@@ -6,8 +6,8 @@
 }
 
 @font-face {
-    font-family: 'Montserrat', sans-serif;
-    src: url('https://fonts.googleapis.com/css?family=Montserrat');
+    font-family: 'Open Sans', sans-serif;
+    src: url('https://fonts.googleapis.com/css?family=Open+Sans');
     font-weight: normal;
     font-style: normal;
 }
@@ -24,7 +24,7 @@ body {
   -o-background-size: cover;
   background-size: cover;
 	overflow-y: hidden;
-	font-family: 'Montserrat', Arial, sans-serif;
+	font-family: 'Open Sans', Arial, sans-serif;
 	text-rendering: optimizeLegibility;
 	height: 100%;	
 	cursor: none;
@@ -195,11 +195,11 @@ body {
 }
 
 .card-name {
-	font-family: 'Montserrat', Arial, sans-serif;
+	font-family: 'Open Sans', Arial, sans-serif;
 	text-align: center;
-	font-size: 34em;
+	font-size: 30em;
 	padding-top: 1.5em;
-	margin: 0 1em;	
+	margin: 0 1em;
 }
 
 .card-title {
