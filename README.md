@@ -55,5 +55,6 @@ Improvements I want to make in the future:
 
 # Credits
 
+* [gridrotator.js[(https://tympanus.net/codrops/2012/08/02/animated-responsive-image-grid/) from [codrops](https://tympanus.net/codrops/)
 * Profile images and names courtesy of <https://randomuser.me>. 
 * Building background image by Sean Pollock via <https://unsplash.com>.
