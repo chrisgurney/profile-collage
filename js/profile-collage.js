@@ -127,7 +127,7 @@ String.prototype.toTitleCase = function () {
  *		...
  */
  // ./profiles/_test.json
-$.getJSON("http://mockbin.org/bin/e6cb1439-cddd-418c-9117-0f6c653ddee7/view", function(json) {
+$.getJSON("https://chrisgurney.ca/profile-collage.json", function(json) {
 
 	profiles = json.profiles;
 	profilesHtml = '<ul id="profiles">';
